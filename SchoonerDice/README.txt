@@ -1,0 +1,1 @@
+I defined similar logic on categories and score classes because one of the conditions in "score method" is validate with the category otherwise i could have the same method for both.
